@@ -13,4 +13,4 @@ This project is setup to demo the features of Azure DevOps. Each element is conf
 All testing is done via the pipelines. The Pipeline is defined into stages using Build and Deploy. 
 
 # Contribute
-Feedback is welcome. Please create a branch and open a PR with any suggestions.
+Feedback is welcome. Please create a branch and open a PR with any suggestions.:-)
